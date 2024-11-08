@@ -1,5 +1,3 @@
-<b>Day - 1</b> Basics
-- What is networking?
 - What is an IP?
 - What is MAC Address?
 - What are clients and servers?
