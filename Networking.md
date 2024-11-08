@@ -4,6 +4,5 @@
 - What is MAC Address?
 - What are clients and servers?
 - What is a topology and it's types?
-
 <b>Day - 2</b> Infrastructure of Cybersecurity
 - 
