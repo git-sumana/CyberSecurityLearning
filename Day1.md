@@ -1,3 +1,4 @@
+####Day - 1
 - What is an IP?
 - What is MAC Address?
 - What are clients and servers?
