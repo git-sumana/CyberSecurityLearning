@@ -1,4 +1,4 @@
-<h3>Day - 1</h3>h3>
+<h2>DAY - 1</h2>
 - What is an IP?
 - What is MAC Address?
 - What are clients and servers?
