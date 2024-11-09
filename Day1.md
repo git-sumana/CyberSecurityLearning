@@ -1,4 +1,5 @@
-<h2>DAY - 1</h2>
+<b> Day - 2</b> <br>
+# The Foundation
 - What is an IP?
 - What is MAC Address?
 - What are clients and servers?
