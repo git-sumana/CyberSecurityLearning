@@ -20,6 +20,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 # Network Security
+Network security involves implementing policies, processes, and tools to protect data and resources from unauthorized access, misuse, or breaches within a network infrastructure. It safeguards sensitive information and maintains the integrity, confidentiality, and availability of data by countering potential threats such as malware, phishing, and unauthorized access.
 
 ### FW (Firewall)
 Controls traffic between networks, allowing or blocking data based on security rules.  
