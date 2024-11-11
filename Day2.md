@@ -19,7 +19,7 @@
   - WAF (Web Application Firewall)
 
 ----------------------------------------------------------------------------------------------------------------------------
--# Network Security
+# Network Security
 
 ### FW (Firewall)
 Controls traffic between networks, allowing or blocking data based on security rules.  
