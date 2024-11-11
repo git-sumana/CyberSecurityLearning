@@ -20,10 +20,23 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 - **Network Security**
-  - **FW (Firewall)**: Controls traffic between networks, allowing or blocking data based on security rules.  
-    *Example*: A firewall can block unauthorized access attempts from IP addresses outside the organization's trusted network.
-  - **IDS/IPS (Intrusion Detection/Prevention Systems)**: IDS detects and alerts on suspicious activity, while IPS blocks threats in real time.  
-    *Example*: An IPS might block repeated login attempts from an unusual location, preventing brute-force attacks.
+Network security is a critical part of cybersecurity focused on protecting an organization’s network and its data from unauthorized access, misuse, or destruction. It includes practices, policies, and technologies to safeguard the network infrastructure, covering things like data protection, user authentication, access control, and threat monitoring.
+
+## Key Components in Network Security
+
+### 1. Firewall
+- A firewall acts as a barrier between a trusted internal network and untrusted external networks (like the internet). It inspects incoming and outgoing traffic and applies a set of rules to decide whether to allow or block data packets. Firewalls are often the first line of defense, filtering traffic based on IP addresses, port numbers, protocols, and specific content.
+- **Types of firewalls:**
+  - **Packet-filtering firewalls** – Filter packets based on predefined rules (like IP addresses, port numbers).
+  - **Stateful inspection firewalls** – Track active connections and make more dynamic filtering decisions.
+  - **Next-generation firewalls (NGFW)** – Offer advanced capabilities like intrusion prevention, deep packet inspection, and malware detection. *Example*: A firewall can block unauthorized access attempts from IP addresses outside the organization's trusted network.
+
+### 2. Intrusion Detection System (IDS)
+- An IDS monitors network traffic for suspicious or unusual activity that could indicate an intrusion or attack. It does not block the traffic but generates alerts for administrators to review.
+- **Types of IDS:**
+  - **Network-based IDS (NIDS)** – Monitors all network traffic, usually placed at strategic points like gateways.
+  - **Host-based IDS (HIDS)** – Monitors traffic and activity on individual hosts or devices.
+- IDS systems can use **signature-based detection** (matching traffic against known attack patterns) or **anomaly-based detection** (flagging traffic that deviates from normal behavior). *Example*: An IPS might block repeated login attempts from an unusual location, preventing brute-force attacks.
 
 - **Application Security**
   - Protects applications by identifying and addressing vulnerabilities in code and configurations. This includes secure coding practices and patch management.  
