@@ -12,7 +12,7 @@
      - **IPv4**: Uses a 32-bit address format (e.g., `192.168.1.1`).
      - **IPv6**: Uses a 128-bit address format (e.g., `2001:0db8:85a3:0000:0000:8a2e:0370:7334`), which allows for a much larger address pool to accommodate more devices.
 
-An **IP address** (Internet Protocol address) is a unique numerical identifier assigned to each device connected to a network that uses the Internet Protocol for communication. IP addresses can be classified into two main types: **Public IP addresses** and **Private IP addresses**.
+A **Public IP address** is an outward-facing IP address used to access the Internet. It is assigned by an **Internet Service Provider (ISP)** and is unique across the entire Internet. Public IP addresses allow devices to communicate with other devices on the Internet. They are essential for activities such as browsing websites, sending emails, and accessing online services.
 
 A **Private IP address** is used within a local network (LAN) and is not routable on the Internet. These addresses are assigned by the network router to devices within the same network, allowing them to communicate with each other without needing to connect to the Internet.
 
