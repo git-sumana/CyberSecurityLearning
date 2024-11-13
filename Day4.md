@@ -1,3 +1,43 @@
+# OSI Model (Open Systems Interconnection Model)
+
+The **OSI model** is a conceptual framework used to understand and describe how different networking protocols interact in a computer network. It divides the network communication process into **seven distinct layers**, each responsible for specific tasks.
+
+## OSI Layers Overview
+
+| **Layer** | **Name**                  | **Description**                                                                                                                                 |
+|-----------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1         | **Physical Layer**         | Responsible for the physical connection between devices. Deals with hardware transmission (e.g., cables, switches, electrical signals).       |
+| 2         | **Data Link Layer**        | Provides error detection/correction and frame synchronization. Ensures reliable data transfer between devices on the same network.           |
+| 3         | **Network Layer**          | Responsible for routing data across different networks. Defines logical addressing (IP addresses). Manages packet forwarding and routing.   |
+| 4         | **Transport Layer**        | Ensures reliable data transfer between devices by managing flow control, error correction, and retransmission (e.g., TCP, UDP protocols).     |
+| 5         | **Session Layer**          | Manages sessions or connections between applications. Controls dialog and data exchange between applications on different devices.           |
+| 6         | **Presentation Layer**     | Translates data into a format that can be understood by the application layer. Responsible for data encryption, compression, and conversion. |
+| 7         | **Application Layer**      | The layer closest to the end user. Interacts directly with software applications. Handles protocols like HTTP, FTP, SMTP, etc.                |
+
+## Key Points
+
+- The OSI model is a **reference model** for understanding how data communication should occur in a network.
+- It helps in troubleshooting network issues by isolating problems to specific layers.
+- While the OSI model is theoretical, it provides a clear understanding of network functions.
+- The **TCP/IP model** is another widely used model for networking, which is more practical and less granular than the OSI model.
+
+## Layer Breakdown
+
+1. **Physical Layer**  
+   - Hardware, cables, switches, and electrical signals.
+2. **Data Link Layer**  
+   - MAC addresses, Ethernet, switches.
+3. **Network Layer**  
+   - IP addresses, routers, routing protocols.
+4. **Transport Layer**  
+   - TCP, UDP, port numbers.
+5. **Session Layer**  
+   - Establishing, managing, and terminating sessions (e.g., NetBIOS).
+6. **Presentation Layer**  
+   - Data encoding (e.g., ASCII, JPEG), encryption, compression.
+7. **Application Layer**  
+   - HTTP, FTP, DNS, email protocols.
+
 # Protocols in the OSI Model
 
 ### 1. **Physical Layer**
