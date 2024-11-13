@@ -21,22 +21,6 @@ The **OSI model** is a conceptual framework used to understand and describe how 
 - While the OSI model is theoretical, it provides a clear understanding of network functions.
 - The **TCP/IP model** is another widely used model for networking, which is more practical and less granular than the OSI model.
 
-## Layer Breakdown
-
-1. **Physical Layer**  
-   - Hardware, cables, switches, and electrical signals.
-2. **Data Link Layer**  
-   - MAC addresses, Ethernet, switches.
-3. **Network Layer**  
-   - IP addresses, routers, routing protocols.
-4. **Transport Layer**  
-   - TCP, UDP, port numbers.
-5. **Session Layer**  
-   - Establishing, managing, and terminating sessions (e.g., NetBIOS).
-6. **Presentation Layer**  
-   - Data encoding (e.g., ASCII, JPEG), encryption, compression.
-7. **Application Layer**  
-   - HTTP, FTP, DNS, email protocols.
 
 # Protocols in the OSI Model
 
