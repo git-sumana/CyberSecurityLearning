@@ -14,14 +14,6 @@ The **OSI model** is a conceptual framework used to understand and describe how 
 | 6         | **Presentation Layer**     | Translates data into a format that can be understood by the application layer. Responsible for data encryption, compression, and conversion. |
 | 7         | **Application Layer**      | The layer closest to the end user. Interacts directly with software applications. Handles protocols like HTTP, FTP, SMTP, etc.                |
 
-## Key Points
-
-- The OSI model is a **reference model** for understanding how data communication should occur in a network.
-- It helps in troubleshooting network issues by isolating problems to specific layers.
-- While the OSI model is theoretical, it provides a clear understanding of network functions.
-- The **TCP/IP model** is another widely used model for networking, which is more practical and less granular than the OSI model.
-
-
 # Protocols in the OSI Model
 
 ### 1. **Physical Layer**
