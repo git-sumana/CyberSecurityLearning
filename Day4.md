@@ -22,7 +22,6 @@ The **OSI model** is a conceptual framework used to understand and describe how 
 - **Wi-Fi:** A wireless networking technology based on the IEEE 802.11 standards that enables devices to connect to the internet without physical cables.
 - **Bluetooth:** A short-range wireless communication standard used for exchanging data between devices like smartphones, laptops, and peripherals.
 - **USB (Universal Serial Bus):** A standard for connecting peripheral devices (e.g., keyboards, mice, storage) to computers and transferring data.
-- **DSL (Digital Subscriber Line):** A family of technologies used for high-speed internet access over traditional copper telephone lines.
 
 ### 2. **Data Link Layer**
 
