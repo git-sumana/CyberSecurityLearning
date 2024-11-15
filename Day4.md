@@ -36,7 +36,6 @@ The **OSI model** is a conceptual framework used to understand and describe how 
 - **IP (Internet Protocol):** A core protocol that provides logical addressing and routing, ensuring data is sent across networks from source to destination, using either IPv4 or IPv6.
 - **ICMP (Internet Control Message Protocol):** Used for diagnostic and error-reporting purposes, ICMP helps manage network communication, including tools like `ping` for network connectivity checks.
 - **OSPF (Open Shortest Path First):** A link-state routing protocol used within large enterprise networks to find the best path for routing IP packets.
-- **BGP (Border Gateway Protocol):** A path vector protocol used to exchange routing information between autonomous systems on the internet, making it crucial for inter-domain routing.
 - **RIP (Routing Information Protocol):** A distance-vector routing protocol used in small to medium-sized networks, relying on hop count as the metric for determining the best path.
 
 ### 4. **Transport Layer**
