@@ -3,3 +3,5 @@ ipconfig - cmd
 ipconfig/all - cmd
 
 NAT concept
+
+public - global
