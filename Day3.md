@@ -1,6 +1,6 @@
 # Cyber Kill Chain
 
-In cybersecurity, **Cyber Kill Chain** is a concept and framework often used to describe the stages of a cyberattack, allowing defenders to understand, detect, and respond to the attack effectively. It was first developed by Lockheed Martin to outline how attackers typically progress through different stages to achieve their objectives. The idea is that by understanding each stage, cybersecurity teams can "kill" or mitigate the attack at any point in the chain, ideally stopping the attacker before they succeed.
+In cybersecurity, **Cyber Kill Chain** is a concept and framework often used to describe the stages of a cyberattack, allowing defenders to understand, detect, and respond to the attack effectively. The idea is that by understanding each stage, cybersecurity teams can "kill" or mitigate the attack at any point in the chain, ideally stopping the attacker before they succeed.
 
 ## The Stages of the Cyber Kill Chain
 The Cyber Kill Chain is usually broken down into seven main steps:
