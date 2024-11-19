@@ -1,1 +1,1 @@
-waiting!
+Need clarity on Dynamic NAT
