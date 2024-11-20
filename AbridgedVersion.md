@@ -6,3 +6,4 @@
 4. **OSINT**: Open Source Intelligence
 5. **OSI**: Open System Interconnection
 6. **TCP**:Transmission Control Protocol
+7. **UDP**:User Datagram Protocol
