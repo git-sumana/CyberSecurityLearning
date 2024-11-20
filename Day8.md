@@ -1,1 +1,1 @@
-TCP, UDP and their ports; ICMP
+TCP, UDP and their ports; ICMP; reg and unreg ports;
