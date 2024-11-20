@@ -1,15 +1,11 @@
-### Dynamic NAT
-Dynamic NAT allows private IP addresses to be mapped to public IP addresses dynamically from a predefined pool. Each internal device gets a temporary public IP only when needed, and the mapping is removed once the session ends. This conserves public IP addresses but requires enough public IPs in the pool to meet demand.
+### Dynamic NAT  
+Dynamic NAT is a method that maps private IP addresses to public IP addresses dynamically from a shared pool. It is used to allow multiple devices to access external networks while conserving public IP addresses. Without NAT, devices with private IPs would be unable to directly communicate with external networks.  
 
-### Exhaust Pooling
-Exhaust pooling occurs when the pool of public IPs in a NAT configuration is fully utilized, and no additional IPs are available for new connections. This leads to connection delays or failures, as the system cannot assign a public IP for outgoing traffic until one becomes free.
+### Exhaust Pooling  
+Exhaust pooling occurs when all the public IPs in a NAT pool are fully utilized, leaving none available for new connections. It ensures uninterrupted connectivity by managing IP allocation efficiently. Without addressing exhaust pooling, new connections will fail until an IP becomes available.  
 
-### PAT (Port Address Translation)
-Port Address Translation (PAT), also called NAT Overload, enables multiple private IP addresses to share a single public IP address by differentiating connections through unique port numbers. This is highly efficient and commonly used to conserve public IPs while supporting multiple devices on a network.
+### PAT (Port Address Translation)  
+Port Address Translation (PAT) allows multiple private IP addresses to share a single public IP by differentiating connections using unique port numbers. It is used to maximize the utilization of a single public IP while supporting numerous devices. Without PAT, networks would require more public IP addresses, which are limited and costly.  
 
-### TCP - Means of Communication
-TCP (Transmission Control Protocol) is a reliable protocol for data communication, using specific handshakes:  
-1. **Three-Way Handshake**: Establishes a connection between devices: SYN (initiate), SYN-ACK (acknowledge), and ACK (confirm).  
-2. **Four-Way Handshake**: Gracefully terminates the connection: FIN (finish), ACK (acknowledge), FIN (close), and ACK (confirm closure).  
-
-TCP ensures proper connection setup, data integrity, and controlled termination for secure and orderly communication.
+### TCP - Means of Communication  
+TCP (Transmission Control Protocol) ensures reliable data transmission through structured communication. It uses a three-way handshake (SYN, SYN-ACK, ACK) to establish a connection and a four-way handshake (FIN, ACK, FIN, ACK) to terminate it gracefully. Without TCP, communication would lack reliability, order, and proper connection management.  
