@@ -5,5 +5,6 @@
 3. **Ransomware**: Ransom for access
 4. **OSINT**: Open Source Intelligence
 5. **OSI**: Open System Interconnection
-6. **TCP**:Transmission Control Protocol
-7. **UDP**:User Datagram Protocol
+6. **TCP**: Transmission Control Protocol
+7. **UDP**: User Datagram Protocol
+8. **ICMP**:  Internet Control Message Protocol
