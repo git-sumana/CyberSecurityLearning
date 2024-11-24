@@ -1,4 +1,4 @@
 Static IP and Dynamic IP
 DHCP
 Spooling and Starving
-DNS
+DNS - root, TLD and authorative server
