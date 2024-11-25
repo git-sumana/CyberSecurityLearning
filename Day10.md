@@ -11,5 +11,3 @@ The Address Resolution Protocol (ARP) is used to map IP addresses to MAC address
 
 4. **Remote Desktop Protocol (RDP)**:  
 RDP is a protocol enabling remote access to another computer's graphical interface. Widely used in IT management, RDP simplifies tasks like troubleshooting and server management. However, it is also a target for brute force and malware attacks. Proper configuration, multi-factor authentication, and endpoint security are crucial to safeguarding RDP sessions from unauthorized access.  
-
-These topics underline the importance of understanding both the operational and security implications of network protocols in modern IT environments.
