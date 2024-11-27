@@ -1,5 +1,3 @@
-# Cybersecurity Concepts
-
 ## 1. CIA Triad
 The **CIA Triad** represents the foundational principles of cybersecurity:
 - **Confidentiality**: Ensuring data is accessible only to authorized users.
