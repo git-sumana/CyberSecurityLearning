@@ -20,3 +20,5 @@
 
 7. **netstat**  
    Displays active network connections, listening ports, and associated processes, providing insights into network activity and potential issues.
+
+   and more:
