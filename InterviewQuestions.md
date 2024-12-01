@@ -19,3 +19,6 @@
 19.	Where do you get your security news from?
 20.	What’s the difference between symmetric and public-key cryptography?
 21.	What kind of network do you have at home?
+22.	What are your first three steps when securing a Windows server?
+23.	What are your first three steps when securing a Linux server?
+24.	What are the advantages offered by bug bounty programs over normal testing practices?
