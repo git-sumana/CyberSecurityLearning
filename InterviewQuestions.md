@@ -22,3 +22,4 @@
 22.	What are your first three steps when securing a Windows server?
 23.	What are your first three steps when securing a Linux server?
 24.	What are the advantages offered by bug bounty programs over normal testing practices?
+25.	Who’s more dangerous to an organization, insiders or outsiders?
