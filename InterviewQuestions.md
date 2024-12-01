@@ -12,3 +12,10 @@
 12.	What is a security control?
 13.	What are the different types of security control?
 14.	Can you describe the information lifecycle? How do you ensure information security at each phase?
+15.	What is Information Security Governance?
+16.	What are your professional values? Why are professional ethics important in the information security field?
+17.	Are open-source projects more or less secure than proprietary ones?
+18.	Who do you look up to within the field of Information Security? Why? ******
+19.	Where do you get your security news from?
+20.	What’s the difference between symmetric and public-key cryptography?
+21.	What kind of network do you have at home?
