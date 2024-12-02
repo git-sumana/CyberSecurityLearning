@@ -23,3 +23,12 @@
 23.	What are your first three steps when securing a Linux server?
 24.	What are the advantages offered by bug bounty programs over normal testing practices?
 25.	Who’s more dangerous to an organization, insiders or outsiders?
+26.	Why dns monitoring is important?
+27.	How would traceroute help you find out where a breakdown in communication is?
+28.	Why would you want to use SSH from a Windows PC?
+29.	How would you find out what a POST code means?****
+30.	What is the difference between a black hat and a white hat?
+31.	Why is deleted data not truly gone when you delete it?
+32.	Why are internal threats often more successful than external threats?
+33.	What do you think of social networking sites such as Facebook and LinkedIn?
+34.	What is the Chain of Custody?
