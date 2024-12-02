@@ -31,4 +31,5 @@
 31.	Why is deleted data not truly gone when you delete it?
 32.	Why are internal threats often more successful than external threats?
 33.	What do you think of social networking sites such as Facebook and LinkedIn?
-34.	What is the Chain of Custody?
+34.	What is the Chain of Custody? ***********
+35.	How would you permanently remove the threat of data falling into the wrong hands?
