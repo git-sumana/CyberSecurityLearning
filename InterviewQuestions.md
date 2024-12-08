@@ -51,4 +51,4 @@
 51.	What does an intrusion detection system do? How does it do it?
 52.	What is a honeypot? What type of attack does it defend against?
 53.	What technologies and approaches are used to secure information and services deployed on cloud computing infrastructure?
-
+54.	What information security challenges are faced in a cloud computing environment?
