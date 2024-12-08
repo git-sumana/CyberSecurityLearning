@@ -33,3 +33,22 @@
 33.	What do you think of social networking sites such as Facebook and LinkedIn?
 34.	What is the Chain of Custody? ***********
 35.	How would you permanently remove the threat of data falling into the wrong hands?
+36.	What is exfiltration?
+37.	How do you protect your home wireless access point?
+38.	What is the CIA triangle?
+39.	If you were going to break into a database-based website, how would you do it?
+40.	How would you lock down a mobile device?
+41.	What is the difference between information protection and information assurance?
+42.	What is the difference between closed-source and open-source? Which is better?
+43.	What is your opinion on hacktivist groups such as Anonymous?
+44.	Do you prefer filtered ports or closed ports on your firewall?
+45.	What port does ping work over?
+46.	How exactly does traceroute/tracert work at the protocol level?
+47.	What are Linux’s strengths and weaknesses vs. Windows?
+48.	What is a firewall? And provide an example of how a firewall can be bypassed by an outsider to access the corporate network?
+49. Besides firewalls, what other devices are used to enforce network boundaries?
+50.	What is the role of network boundaries in information security?
+51.	What does an intrusion detection system do? How does it do it?
+52.	What is a honeypot? What type of attack does it defend against?
+53.	What technologies and approaches are used to secure information and services deployed on cloud computing infrastructure?
+
