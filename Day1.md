@@ -1,4 +1,3 @@
-<b> Day - 1</b> <br>
 # The Foundation
 - What is an IP?
 - What is MAC Address?
